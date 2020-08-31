@@ -1,0 +1,12 @@
+{
+    "guerrier_1": {
+        "nom": "Eric",
+        "Pseudo": "Elric le vil",
+        "Xp": "3245"
+    },
+    "guerrier_2": {
+        "nom": "Kaleb",
+        "Pseudo": "Snorri le skald ",
+        "Xp": "345"
+    }
+}
